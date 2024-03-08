@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "Id": 4192,
+      "Nome": "Junior",
+      "Cpf": "194.585.868-02",
+      "Endereço": "Vila Ede",
+      "Rua": "Rua Luciano Broinizzi, 58",
+      "Bairro": "Vila Izolina Mazzei",
+      "CEP": "02083-120"
+
+    },
+    {
+      "Id": 8008,
+      "Nome": "Gabriela",
+      "Cpf": "423.826.558.81",
+      "Endereço": "E.E Gonçalves Dias",
+      "Rua": "Rua Nilo Luís Mazzei,",
+      "Bairro": "Vila Izolina Mazzei",
+      "CEP": "02081-070"
+    },
+    {
+      "Id": 5740,
+      "Nome": "Bruno",
+      "Cpf": "479.663.356.12",
+      "Endereço": "Condomínio Residencial Máximo Guarulhos",
+      "Rua": "Rua Ana Soares Barcelos, 355",
+      "Bairro": "Vila Venditti",
+      "CEP": "07031-070"
+    }
+  ],
+  "comments": [
+    {
+     
+    }
+  ],
+  "profile": {
+    
+  }
+}
